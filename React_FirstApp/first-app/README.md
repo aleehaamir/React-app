@@ -1,11 +1,4 @@
-/*# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh*/
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,14 +25,13 @@ Currently, two official plugins are available:
 </head>
 <body>
 <ul>
-<li>Using class name instead of class in JSX</li>
-<li>Creating a navigation bar and explaining components</li>
-<li>Center a div using CSS<li>
-<li>Styling with JSX and creating components in React</li>
+<li>Class name instead of class in JSX</li>
+<li>Create a navigation bar</li>
+<li>Center a div using CSS</li>
+<li>Styling with JSX and create omponents in React</li>
 <li>Using props and styling in React components</li>
-<li>Understanding components, props, and JSX in React</li>
 <li>Using props to pass data in React components.</li>
-<li>Pass data as props and receive in another component<li>
+<li>Pass data as props and receive in another component</li>
 </ul>
     <img src="Capture.JPG" alt=" "/>
 
