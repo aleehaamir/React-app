@@ -5,23 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> </title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            text-align: center;
-            padding: 50px;
-        }
-        img {
-            width: 300px;
-            height: auto;
-            border: 2px solid #000;
-        }
-        h1 {
-            color: #333;
-        }
-    </style>
+
+   
 </head>
 <body>
 <ul>
